@@ -75,5 +75,14 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/Biomedical-Information-Extraction-Papers/blob/main/bio(40).pdf" style="text-decoration:none;">Data Descriptor: MIMIC-III, a freely accessible critical care database</a></li>                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Biomedical-Information-Extraction-Papers/blob/main/bio(41).pdf" style="text-decoration:none;">Data Descriptor: Columbia Open Health Data, clinical concept prevalence and co-occurrence from electronic health records</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Biomedical-Information-Extraction-Papers/blob/main/bio(42).pdf" style="text-decoration:none;">Publicly Available Clinical BERT Embeddings</a></li>
+
+ <li><a target="_blank" href="https://github.com/manjunath5496/Biomedical-Information-Extraction-Papers/blob/main/bio(43).pdf" style="text-decoration:none;">Learning for Biomedical Information Extraction: Methodological Review of Recent Advances</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Biomedical-Information-Extraction-Papers/blob/main/bio(44).pdf" style="text-decoration:none;">Biomedical Information Extraction for Disease Gene Prioritization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Biomedical-Information-Extraction-Papers/blob/main/bio(45).pdf" style="text-decoration:none;">Information Extraction in the Medical Domain</a></li>
+
+
+
+
+
  
   </ul>
